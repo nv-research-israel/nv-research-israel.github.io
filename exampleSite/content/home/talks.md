@@ -25,7 +25,7 @@ content:
     author: ""
     category: ""
     tag: ""
-    exclude_featured: false
+    include_featured: false
     exclude_future: false
     exclude_past: false
     publication_type: ""
