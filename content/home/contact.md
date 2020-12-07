@@ -22,6 +22,4 @@ email_form = 0
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
 
-Our lab is located in Downtown Toronto (20 minutes away from the St-George campus of the University of Toronto) and hosts many students for their co-op programs. Motivated candidates can contact our members to apply for internships and research positions.
-
-Unauthorized visitors are not permitted in the Toronto office. 
+Our lab is located in Tel-Aviv.

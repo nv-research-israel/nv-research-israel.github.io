@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Toronto AI Lab
+title: NVIDIA Tel-Aviv Lab
 
 # Username (this should match the folder name)
 authors:
@@ -51,19 +51,17 @@ email: ""
 user_groups:
 #- Researchers
 #- Visitors
---- 
+---
 
 
-Welcome to the homepage of the NVIDIA Toronto Artificial Intelligence Lab led by Professor [Sanja Fidler](https://www.cs.utoronto.ca/~fidler/). Our research group was founded in 2018, and is primarily based in Toronto.
+Welcome to the homepage of the NVIDIA research Tel-Aviv Artificial Intelligence Lab led by Professor [Gal Chechik](https://chechiklab.biu.ac.il/~gal/). Our research group was founded in 2018, and is primarily based in Tel-Aviv.
 
-The research interests of our lab lie at the intersection of computer vision, machine learning and computer graphics. Our group members are also part of or closely collaborate with academic labs such as the University of Toronto and Vector Institute.
+The research interests of our lab lie at the intersection of computer vision, machine learning and ...
 
 We invite applications for the following positions:
 
 * full time research scientist
-* full time research engineer
 * research scientist intern
-* research engineer intern
 
 
 See [this link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) for open positions, or contact our [members](#people) for more details.

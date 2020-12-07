@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Jun Gao
-weight: 150
+title: Haggai Maron
+weight: 1
 
 # Username (this should match the folder name)
 authors:
-- jungao
+- haggaimaron
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,11 +13,10 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: NVIDIA
-- name: University of Toronto
-- name: Vector Institute
+# - name: NVIDIA
 
 # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 
 
@@ -50,8 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+#- Lab head
 - Members
-- Research Scientists
 #- Visitors
---- 
-
+---
