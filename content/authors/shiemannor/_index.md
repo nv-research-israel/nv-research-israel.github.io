@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Haggai Maron
+title: Shie Mannor Maron
 weight: 1
 
 # Username (this should match the folder name)
 authors:
-- haggaimaron
+- shiemannor
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,8 +16,7 @@ organizations:
 # - name: NVIDIA
 
 # Short bio (displayed in user profile at end of posts)
-bio: See official website at https://research.nvidia.com/person/haggai-maron
-
+bio: See official website at https://research.nvidia.com/person/shie-mannor
 
 
 

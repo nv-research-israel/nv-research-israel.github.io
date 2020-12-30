@@ -53,15 +53,6 @@ user_groups:
 #- Visitors
 ---
 
-
-Welcome to the homepage of the NVIDIA research Tel-Aviv Artificial Intelligence Lab led by Professor [Gal Chechik](https://chechiklab.biu.ac.il/~gal/). Our research group was founded in 2018, and is primarily based in Tel-Aviv.
-
-The research interests of our lab lie at the intersection of computer vision, machine learning and ...
-
-We invite applications for the following positions:
-
-* full time research scientist
-* research scientist intern
-
-
-See [this link](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite) for open positions, or contact our [members](#people) for more details.
+Welcome to the homepage of the NVIDIA Research Israel AI Lab.
+Our research spans algorithms, theory and applications of deep learning, with a focus on computer vision and reinforcement learning. We are particularly interested in perception, reasoning, planning, and their intersection. The lab is led by Professor [Gal Chechik](https://chechiklab.biu.ac.il/~gal/).
+See recent [projects](#projects) and current team [members](#people).
