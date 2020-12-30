@@ -75,8 +75,8 @@ subtitle = ""
  css_class = ""
 +++
 
-**Dec**
-- The paper "Compositional recognition with causally-driven embeddings" by Y. Atzmon,F. Kreuk, Uri Shalit, G. Chechik, was presented as a NeurIPS spotlight,[PDF](https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf)
+**Dec 2020**
+- The paper "Compositional recognition with causally-driven embeddings" by Y. Atzmon,F. Kreuk, Uri Shalit, G. Chechik, was presented as a NeurIPS spotlight, [PDF](https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf)
 
 
 **Nov 2020**
@@ -86,5 +86,5 @@ subtitle = ""
 - new paper Gal Dalal, Esther Derman, Shie Mannor. Acting in Delayed Environments with Non-Stationary Markov Policies
 
 **Oct 2020**  
-- The paper "From Generalized zero-shot learning to long-tail with class descriptors", by D. Samuel,Y. Atzmon, G. Chechik,[PDF](https://arxiv.org/pdf/2004.02235.pdf), was accepted to WACV 2021
-- The paper "Self-supervised learning for domain adaptation on point clouds", by I. Achituv,H. Maron, G. Chechik, [PDF](https://arxiv.org/pdf/2003.12641.pdf), was accepted to WACV 2021
+- The paper "From Generalized zero-shot learning to long-tail with class descriptors", by D. Samuel,Y. Atzmon, G. Chechik, [PDF](https://arxiv.org/pdf/2004.02235.pdf), was accepted to WACV 2021
+- The paper "Self-supervised learning for domain adaptation on point clouds", by I. Achituv, H. Maron, G. Chechik, [PDF](https://arxiv.org/pdf/2003.12641.pdf), was accepted to WACV 2021
