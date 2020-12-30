@@ -75,4 +75,16 @@ subtitle = ""
  css_class = ""
 +++
 
-**October 2020** - New version of the website.
+**Dec**
+- The paper "Compositional recognition with causally-driven embeddings" by Y. Atzmon,F. Kreuk, Uri Shalit, G. Chechik, was presented as a NeurIPS spotlight,[PDF](https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf)
+
+
+**Nov 2020**
+- New paper by Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron. On Size Generalization in Graph Neural Networks,  [PDF](https://arxiv.org/pdf/2010.08853.pdf)
+- New paper by Aviv Navon, Idan Achituve, Haggai Maron, Gal Chechik, Ethan Fetaya, Auxiliary Learning by Implicit Differentiation, [PDF](https://arxiv.org/abs/2007.02693)
+- New paper by Nadav Dym, Haggai Maron, On The Universality of Rotation Equivariant Point cloud Networks, [PDF](https://arxiv.org/pdf/2010.02449.pdf)
+- new paper Gal Dalal, Esther Derman, Shie Mannor. Acting in Delayed Environments with Non-Stationary Markov Policies
+
+**Oct 2020**  
+- The paper "From Generalized zero-shot learning to long-tail with class descriptors", by D. Samuel,Y. Atzmon, G. Chechik,[PDF](https://arxiv.org/pdf/2004.02235.pdf), was accepted to WACV 2021
+- The paper "Self-supervised learning for domain adaptation on point clouds", by I. Achituv,H. Maron, G. Chechik, [PDF](https://arxiv.org/pdf/2003.12641.pdf), was accepted to WACV 2021
