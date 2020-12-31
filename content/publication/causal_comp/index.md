@@ -19,8 +19,7 @@ publication_types: ["1"]
 publication: "NeurIPS 2020 (Spotlight)"
 publication_short: "NeurIPS 2020"
 
-abstract: "People easily recognize new visual categories that are new combinations of known components. This compositional generalization capacity is critical for learning in real-world domains like vision and language because the long tail of new combinations dominates the distribution. Unfortunately, learning systems struggle with compositional generalization because they often build on features that are correlated with class labels even if they are not essential for the class. This leads to consistent misclassification of samples from a new distribution, like new combinations of known components.
-    Here we describe an approach for compositional generalization that builds on causal ideas. First, we describe compositional zero-shot learning from a causal perspective, and propose to view zero-shot inference as finding - which intervention caused the observed image?. Second, we present a causal-inspired embedding model that learns disentangled representations of elementary components of visual objects from correlated (confounded) training data. We evaluate this approach on two datasets for predicting new combinations of attribute-object pairs: A well-controlled synthesized images dataset and a real-world dataset which consists of fine-grained types of shoes. We show improvements compared to strong baselines."
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -69,8 +68,11 @@ projects: []
 slides: ""
 ---
 
-# Test header 1
-## Test header 1
+### Video
 
-testing 1234
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IUAmwBylvyc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Abstract
+People easily recognize new visual categories that are new combinations of known components. This compositional generalization capacity is critical for learning in real-world domains like vision and language because the long tail of new combinations dominates the distribution. Unfortunately, learning systems struggle with compositional generalization because they often build on features that are correlated with class labels even if they are not "essential" for the class. This leads to consistent misclassification of samples from a new distribution, like new combinations of known components.
+    Here we describe an approach for compositional generalization that builds on causal ideas. First, we describe compositional zero-shot learning from a causal perspective, and propose to view zero-shot inference as finding - which intervention caused the observed image?. Second, we present a causal-inspired embedding model that learns disentangled representations of elementary components of visual objects from correlated (confounded) training data. We evaluate this approach on two datasets for predicting new combinations of attribute-object pairs: A well-controlled synthesized images dataset and a real-world dataset which consists of fine-grained types of shoes. We show improvements compared to strong baselines.
+    
