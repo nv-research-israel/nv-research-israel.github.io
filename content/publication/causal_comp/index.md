@@ -48,7 +48,7 @@ url_video: https://www.youtube.com/watch?v=IUAmwBylvyc
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
+# image:
 #  caption: ""
 #  focal_point: ""
 #  preview_only: false
@@ -70,7 +70,7 @@ slides: ""
 
 ### Video
 
-<iframe width="560" src="https://www.youtube.com/embed/IUAmwBylvyc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" src="https://www.youtube.com/embed/IUAmwBylvyc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Abstract
 People easily recognize new visual categories that are new combinations of known components. This compositional generalization capacity is critical for learning in real-world domains like vision and language because the long tail of new combinations dominates the distribution. Unfortunately, learning systems struggle with compositional generalization because they often build on features that are correlated with class labels even if they are not "essential" for the class. This leads to consistent misclassification of samples from a new distribution, like new combinations of known components.
