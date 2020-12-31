@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shie Mannor Maron
+title: Shie Mannor
 weight: 1
 
 # Username (this should match the folder name)
