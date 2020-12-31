@@ -76,7 +76,7 @@ subtitle = ""
 +++
 
 **Dec 2020**
-- The paper "Compositional recognition with causally-driven embeddings" by Y. Atzmon,F. Kreuk, Uri Shalit, G. Chechik, was presented as a NeurIPS spotlight, [PDF](https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf)
+- The paper "A causal view of compositional zero-shot recognition" by Y. Atzmon,F. Kreuk, Uri Shalit, G. Chechik, was presented as a NeurIPS spotlight, [PDF](https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf)
 
 
 **Nov 2020**

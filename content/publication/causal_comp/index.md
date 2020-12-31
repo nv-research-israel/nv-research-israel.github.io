@@ -38,13 +38,13 @@ featured: true
 #   icon: twitter
 
 url_pdf: https://arxiv.org/abs/2006.14610
-url_code:
-url_dataset:
+url_code: https://github.com/nv-research-israel/causal_comp
+url_dataset: https://github.com/nv-research-israel/causal_comp
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: https://www.youtube.com/watch?v=IUAmwBylvyc
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
