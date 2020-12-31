@@ -47,11 +47,11 @@ url_video: https://www.youtube.com/watch?v=IUAmwBylvyc
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-# image:
-#  caption: ""
-#  focal_point: ""
-#  preview_only: false
+# Focal points: Smart, Center, TopLeft, Top, , Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+ caption: ""
+ focal_point: TopRight
+ preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
