@@ -21,9 +21,6 @@ publication_short: "NeurIPS 2020"
 
 abstract: 
 
-## Test caption
-testing 123
-
 # Summary. An optional shortened abstract.
 summary: ""
 
