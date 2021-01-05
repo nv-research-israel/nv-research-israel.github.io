@@ -88,3 +88,10 @@ subtitle = ""
 **Oct 2020**  
 - The paper "From Generalized zero-shot learning to long-tail with class descriptors", by D. Samuel,Y. Atzmon, G. Chechik, [PDF](https://arxiv.org/pdf/2004.02235.pdf), was accepted to WACV 2021
 - The paper "Self-supervised learning for domain adaptation on point clouds", by I. Achituv, H. Maron, G. Chechik, [PDF](https://arxiv.org/pdf/2003.12641.pdf), was accepted to WACV 2021
+- NVIDIA teaches machines to communicate: [YNET](https://www.ynet.co.il/digital/technews/article/BJvFqiFIv) (Hebrew)
+
+**July 2020**
+- NVIDIA researchers win a best-paper award at ICML: [Geektime](https://www.geektime.com/what-do-nvidia-stanford-and-israel-have-in-common/), [Calcalist](https://www.calcalistech.com/ctech/articles/0,7340,L-3840438,00.html)
+
+**May 2020**  
+- NVIDIA efforts around COVID-19: [YNET](https://www.ynet.co.il/digital/technology/article/S1725DJp8)(Hebrew)
