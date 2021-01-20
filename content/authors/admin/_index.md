@@ -56,3 +56,6 @@ user_groups:
 Welcome to the homepage of the NVIDIA Research Israel AI Lab.
 Our research spans algorithms, theory and applications of deep learning, with a focus on computer vision and reinforcement learning. We are particularly interested in perception, reasoning, planning, and their intersection. The lab is led by Professor [Gal Chechik](https://chechiklab.biu.ac.il/~gal/).
 See recent [projects](#projects) and current team [members](#people).
+
+Welcome to the homepage of the NVIDIA Research Israel AI Lab. Our research spans algorithms, theory and applications of deep learning, with a focus on computer vision and reinforcement learning. We are particularly interested in perception, action, and reasoning (PAR), and their intersection. The lab is led by Professor [Gal Chechik](https://chechiklab.biu.ac.il/~gal/). See recent [projects](#projects) and current team [members](#people).
+
