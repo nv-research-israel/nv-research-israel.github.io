@@ -75,18 +75,28 @@ subtitle = ""
  css_class = ""
 +++
 
+**Jan 2021**
+- The paper "Learning the Pareto front with hypernetworks" by Aviv Navon, Aviv Shamsian, Gal Chechik, Ethan Fetaya, was accepted to ICLR 2021, [PDF](https://arxiv.org/abs/2010.04104).
+- The paper "Auxiliary Learning by Implicit Differentiation" by Aviv Navon, Idan Achituve, Haggai Maron, Gal Chechik, Ethan Fetaya, was accepted to ICLR 2021, [PDF](https://arxiv.org/abs/2007.02693).
+- The paper "On The Universality of Rotation Equivariant Point cloud Networks" by Nadav Dym, Haggai Maron was accepted to ICLR 2021,  [PDF](https://arxiv.org/pdf/2010.02449.pdf).
+- The paper "Acting in Delayed Environments with Non-Stationary Markov Policies" by Gal Dalal, Esther Derman, Shie Mannor, was accepted to ICLR 2021.
+- The paper "Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning" by Shauharda Khadka, Estelle Aflalo, Mattias Mardar, Avrech Ben-David, Santiago Miret, Shie Mannor, Tamir Hazan, Hanlin Tang, Somdeb Majumdar, was accepted to ICLR 2021.
+- The paper "Reinforcement Learning with Trajectory Feedback" by Yonathan Efroni, Nadav Merlis, Shie Mannor, was accepted to AAAI 2021.
+- The paper "Lenient Regret for Multi-Armed Bandits" by N. Merlis and S. Mannor, was accepted to AAAI 2021.
+
+
 **Dec 2020**
-- The paper "A causal view of compositional zero-shot recognition" by Y. Atzmon,F. Kreuk, Uri Shalit, G. Chechik, was presented as a NeurIPS spotlight, [PDF](https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf)
+- The paper "A causal view of compositional zero-shot recognition" by Y. Atzmon,F. Kreuk, Uri Shalit, G. Chechik, was presented as a NeurIPS spotlight, [PDF](https://papers.nips.cc/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf).
 
 
 **Nov 2020**
-- New paper by Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron. On Size Generalization in Graph Neural Networks,  [PDF](https://arxiv.org/pdf/2010.08853.pdf)
-- New paper by Aviv Navon, Idan Achituve, Haggai Maron, Gal Chechik, Ethan Fetaya, Auxiliary Learning by Implicit Differentiation, [PDF](https://arxiv.org/abs/2007.02693)
-- New paper by Nadav Dym, Haggai Maron, On The Universality of Rotation Equivariant Point cloud Networks, [PDF](https://arxiv.org/pdf/2010.02449.pdf)
-- new paper Gal Dalal, Esther Derman, Shie Mannor. Acting in Delayed Environments with Non-Stationary Markov Policies
+- New paper by Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron. On Size Generalization in Graph Neural Networks,  [PDF](https://arxiv.org/pdf/2010.08853.pdf).
+- New paper by Aviv Navon, Idan Achituve, Haggai Maron, Gal Chechik, Ethan Fetaya, Auxiliary Learning by Implicit Differentiation, [PDF](https://arxiv.org/abs/2007.02693).
+- New paper by Nadav Dym, Haggai Maron, On The Universality of Rotation Equivariant Point cloud Networks, [PDF](https://arxiv.org/pdf/2010.02449.pdf).
+- new paper Gal Dalal, Esther Derman, Shie Mannor. Acting in Delayed Environments with Non-Stationary Markov Policies.
 
 **Oct 2020**  
-- The paper "From Generalized zero-shot learning to long-tail with class descriptors", by D. Samuel,Y. Atzmon, G. Chechik, [PDF](https://arxiv.org/pdf/2004.02235.pdf), was accepted to WACV 2021
+- The paper "From Generalized zero-shot learning to long-tail with class descriptors", by D. Samuel,Y. Atzmon, G. Chechik, [PDF](https://arxiv.org/pdf/2004.02235.pdf), was accepted to WACV 2021.
 - The paper "Self-supervised learning for domain adaptation on point clouds", by I. Achituv, H. Maron, G. Chechik, [PDF](https://arxiv.org/pdf/2003.12641.pdf), was accepted to WACV 2021
 - NVIDIA teaches machines to communicate: [YNET](https://www.ynet.co.il/digital/technews/article/BJvFqiFIv) (Hebrew)
 
@@ -94,4 +104,4 @@ subtitle = ""
 - NVIDIA researchers win a best-paper award at ICML: [Geektime](https://www.geektime.com/what-do-nvidia-stanford-and-israel-have-in-common/), [Calcalist](https://www.calcalistech.com/ctech/articles/0,7340,L-3840438,00.html)
 
 **May 2020**  
-- NVIDIA efforts around COVID-19: [YNET](https://www.ynet.co.il/digital/technology/article/S1725DJp8)(Hebrew)
+- NVIDIA efforts around COVID-19: [YNET](https://www.ynet.co.il/digital/technology/article/S1725DJp8)(Hebrew).
