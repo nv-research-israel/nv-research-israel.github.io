@@ -26,6 +26,9 @@ bio: See official website at https://research.nvidia.com/person/eli-meirom
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: address-card
+  icon_pack: far
+  link: 'https://research.nvidia.com/person/eli-meirom'  
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".

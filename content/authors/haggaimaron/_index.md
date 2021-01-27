@@ -13,7 +13,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-# - name: NVIDIA
+- name: NVIDIA
 
 # Short bio (displayed in user profile at end of posts)
 bio: See official website at https://research.nvidia.com/person/haggai-maron
@@ -27,14 +27,15 @@ bio: See official website at https://research.nvidia.com/person/haggai-maron
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+
+- icon: address-card
+  icon_pack: far
+  link: 'https://research.nvidia.com/person/haggai-maron'  
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
