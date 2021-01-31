@@ -79,7 +79,7 @@ subtitle = ""
 - The paper "Learning the Pareto front with hypernetworks" by Aviv Navon, Aviv Shamsian, Gal Chechik, Ethan Fetaya, was accepted to ICLR 2021, [PDF](https://arxiv.org/abs/2010.04104).
 - The paper "Auxiliary Learning by Implicit Differentiation" by Aviv Navon, Idan Achituve, Haggai Maron, Gal Chechik, Ethan Fetaya, was accepted to ICLR 2021, [PDF](https://arxiv.org/abs/2007.02693).
 - The paper "On The Universality of Rotation Equivariant Point cloud Networks" by Nadav Dym, Haggai Maron was accepted to ICLR 2021,  [PDF](https://arxiv.org/pdf/2010.02449.pdf).
-- The paper "Acting in Delayed Environments with Non-Stationary Markov Policies" by Gal Dalal, Esther Derman, Shie Mannor, was accepted to ICLR 2021.
+- The paper "Acting in Delayed Environments with Non-Stationary Markov Policies" by Esther Derman, Gal Dalal, Shie Mannor, was accepted to ICLR 2021, [PDF](https://arxiv.org/pdf/2101.11992.pdf).
 - The paper "Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning" by Shauharda Khadka, Estelle Aflalo, Mattias Mardar, Avrech Ben-David, Santiago Miret, Shie Mannor, Tamir Hazan, Hanlin Tang, Somdeb Majumdar, was accepted to ICLR 2021.
 - The paper "Reinforcement Learning with Trajectory Feedback" by Yonathan Efroni, Nadav Merlis, Shie Mannor, was accepted to AAAI 2021.
 - The paper "Lenient Regret for Multi-Armed Bandits" by N. Merlis and S. Mannor, was accepted to AAAI 2021.

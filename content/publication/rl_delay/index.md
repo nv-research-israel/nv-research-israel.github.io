@@ -37,7 +37,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://arxiv.org/pdf/2101.11992.pdf
 url_code: https://github.com/galdl/rl_delay_basic.git
 url_dataset: 
 url_poster:
