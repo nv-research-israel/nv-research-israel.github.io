@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Self-Supervised Learning for Domain Adaptation on Point-Clouds"
-authors: [Idan Achituve, Haggai Maron, Gal Chechik]
-date: 2020-12-30T11:09:21-04:00
+title: "Compositional Video Synthesis with Action Graphs"
+authors: [Amir Bar, Roei Herzig, Xiaolong Wang, Gal Chechik, Trevor Darrell, Amir Globerson]
+date: 2021-05-09T11:09:21-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-30T11:09:21-04:00
+publishDate: 2021-05-09T11:09:21-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,15 +16,15 @@ publishDate: 2020-12-30T11:09:21-04:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Winter Conference on Applications of Computer Vision"
-publication_short: "WACV 2021"
+publication: "International Conference on Machine Learning"
+publication_short: "ICML 2021"
 
 abstract: 
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Machine Learning, Computer Vision, Point Clouds]
+tags: [Machine Learning, Computer Vision, Scene Graphs, Video Generation]
 categories: [Machine Learning]
 featured: false
 
@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2003.12641
-url_code: https://github.com/IdanAchituve/DefRec_and_PCM
+url_pdf: https://arxiv.org/abs/2006.14610
+url_code: 
 url_dataset: 
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video: https://www.youtube.com/watch?v=owpoM1Mv1jE
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -71,13 +71,14 @@ slides: ""
 ### Video
 
 ### Abstract
-Self-supervised learning (SSL) is a technique for learning useful representations from unlabeled data. It has been applied effectively to domain adaptation (DA) on images and videos. It is still unknown if and how it can be leveraged for domain adaptation in 3D perception problems. Here we describe the first study of SSL for DA on point clouds. We introduce a new family of pretext tasks, Deformation Reconstruction, inspired by the deformations encountered in sim-to-real transformations. In addition, we propose a novel training procedure for labeled point cloud data motivated by the MixUp method called Point cloud Mixup (PCM). Evaluations on domain adaptations datasets for classification and segmentation, demonstrate a large improvement over existing and baseline methods.
+Videos of actions are complex signals, containing rich compositional structure. Current video generation models are limited in their ability to generate such videos. To address this challenge, we introduce a generative model (AG2Vid) that can be conditioned on an Action Graph, a structure that naturally represents the dynamics of actions and interactions between objects. Our AG2Vid model disentangles appearance and position features, allowing for more accurate generation. AG2Vid is evaluated on the CATER and Something-Something datasets and outperforms other baselines. Finally, we show how Action Graphs can be used for generating novel compositions of actions.
+
 
 ### Cite the paper
-If you use the contents of this project, please cite our paper.@inproceedings{achituve2021self,
-  title={Self-Supervised Learning for Domain Adaptation on Point Clouds},
-  author={Achituve, Idan and Maron, Haggai and Chechik, Gal},
-  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-  pages={123--133},
-  year={2021}
+If you use the contents of this project, please cite our paper.
+@article{bar2020compositional,
+  title={Compositional video synthesis with action graphs},
+  author={Bar, Amir and Herzig, Roei and Wang, Xiaolong and Chechik, Gal and Darrell, Trevor and Globerson, Amir},
+  journal={arXiv preprint arXiv:2006.15327},
+  year={2020}
 }

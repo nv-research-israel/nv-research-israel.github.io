@@ -75,14 +75,31 @@ subtitle = ""
  css_class = ""
 +++
 
+**May 2021**
+- The paper "How to Stop Epidemics: Controlling Graph Dynamics with Reinforcement Learning and Graph Neural Networks" by Eli A. Meirom, Haggai Maron, Shie Mannor, Gal Chechik, was accepted to **ICML 2021**, [PDF](https://arxiv.org/pdf/2010.05313).
+- The paper "From Local Structures to Size Generalization in Graph Neural Networks" by Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron, was accepted to **ICML 2021**, [PDF](https://arxiv.org/abs/2010.08853).
+- The paper "Personalized Federated Learning using Hypernetworks" by Aviv Shamsian, Aviv Navon, Ethan Fetaya, Gal Chechik, was accepted to **ICML 2021**, [PDF](https://arxiv.org/abs/2103.04628).
+- The paper "GP-Tree: A Gaussian Process Classifier for Few-Shot Incremental Learning" by Idan Achituve, Aviv Navon, Yochai Yemini, Gal Chechik, Ethan Fetaya, was accepted to **ICML 2021**, [PDF](https://arxiv.org/abs/2102.07868).
+- The paper "Compositional Video Synthesis with Action Graphs" by Amir Bar, Roei Herzig, Xiaolong Wang, Gal Chechik, Trevor Darrell, Amir Globerson, was accepted to **ICML 2021**, [PDF](https://arxiv.org/abs/2006.14610) [Slides](https://www.dropbox.com/s/yh110evfjw3bwkf/ActionGraph.pdf?dl=0).
+
+**Apr 2021**
+- We coorganize the _Israeli Reinforcement Learning day_, [Schedule](https://israel-rl-day.github.io/)
+
+**Feb 2021**
+- New paper by Chen Tessler, Yuval Shpigelman, Gal Dalal, Amit Mandelbaum, Doron Haritan Kazakov, Benjamin Fuhrer, Gal Chechik, Shie Mannor. Reinforcement Learning for Datacenter Congestion Control,  [PDF](https://arxiv.org/abs/2102.09337).
+- New paper by Sangho Lee, Jiwan Chung, Youngjae Yu, Gunhee Kim, Thomas Breuel, Gal Chechik, Yale Song.
+Automatic Curation of Large-Scale Datasets for Audio-Visual Representation Learning
+[PDF](https://arxiv.org/abs/2101.10803)
+
+
 **Jan 2021**
-- The paper "Learning the Pareto front with hypernetworks" by Aviv Navon, Aviv Shamsian, Gal Chechik, Ethan Fetaya, was accepted to ICLR 2021, [PDF](https://arxiv.org/abs/2010.04104).
-- The paper "Auxiliary Learning by Implicit Differentiation" by Aviv Navon, Idan Achituve, Haggai Maron, Gal Chechik, Ethan Fetaya, was accepted to ICLR 2021, [PDF](https://arxiv.org/abs/2007.02693).
-- The paper "On The Universality of Rotation Equivariant Point cloud Networks" by Nadav Dym, Haggai Maron was accepted to ICLR 2021,  [PDF](https://arxiv.org/pdf/2010.02449.pdf).
-- The paper "Acting in Delayed Environments with Non-Stationary Markov Policies" by Esther Derman, Gal Dalal, Shie Mannor, was accepted to ICLR 2021, [PDF](https://arxiv.org/pdf/2101.11992.pdf).
-- The paper "Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning" by Shauharda Khadka, Estelle Aflalo, Mattias Mardar, Avrech Ben-David, Santiago Miret, Shie Mannor, Tamir Hazan, Hanlin Tang, Somdeb Majumdar, was accepted to ICLR 2021.
-- The paper "Reinforcement Learning with Trajectory Feedback" by Yonathan Efroni, Nadav Merlis, Shie Mannor, was accepted to AAAI 2021.
-- The paper "Lenient Regret for Multi-Armed Bandits" by N. Merlis and S. Mannor, was accepted to AAAI 2021.
+- The paper "Learning the Pareto front with hypernetworks" by Aviv Navon, Aviv Shamsian, Gal Chechik, Ethan Fetaya, was accepted to **ICLR 2021**, [PDF](https://arxiv.org/abs/2010.04104).
+- The paper "Auxiliary Learning by Implicit Differentiation" by Aviv Navon, Idan Achituve, Haggai Maron, Gal Chechik, Ethan Fetaya, was accepted to **ICLR 2021**, [PDF](https://arxiv.org/abs/2007.02693).
+- The paper "On The Universality of Rotation Equivariant Point cloud Networks" by Nadav Dym, Haggai Maron was accepted to **ICLR 2021**,  [PDF](https://arxiv.org/pdf/2010.02449.pdf).
+- The paper "Acting in Delayed Environments with Non-Stationary Markov Policies" by Esther Derman, Gal Dalal, Shie Mannor, was accepted to **ICLR 2021**, [PDF](https://arxiv.org/pdf/2101.11992.pdf).
+- The paper "Optimizing Memory Placement using Evolutionary Graph Reinforcement Learning" by Shauharda Khadka, Estelle Aflalo, Mattias Mardar, Avrech Ben-David, Santiago Miret, Shie Mannor, Tamir Hazan, Hanlin Tang, Somdeb Majumdar, was accepted to **ICLR 2021**.
+- The paper "Reinforcement Learning with Trajectory Feedback" by Yonathan Efroni, Nadav Merlis, Shie Mannor, was accepted to **AAAI 2021**.
+- The paper "Lenient Regret for Multi-Armed Bandits" by N. Merlis and S. Mannor, was accepted to **AAAI 2021**.
 
 
 **Dec 2020**
@@ -101,7 +118,7 @@ subtitle = ""
 - NVIDIA teaches machines to communicate: [YNET](https://www.ynet.co.il/digital/technews/article/BJvFqiFIv) (Hebrew)
 
 **July 2020**
-- NVIDIA researchers win a best-paper award at ICML: [Geektime](https://www.geektime.com/what-do-nvidia-stanford-and-israel-have-in-common/), [Calcalist](https://www.calcalistech.com/ctech/articles/0,7340,L-3840438,00.html)
+- NVIDIA researchers win a **best-paper award at ICML**: [Geektime](https://www.geektime.com/what-do-nvidia-stanford-and-israel-have-in-common/), [Calcalist](https://www.calcalistech.com/ctech/articles/0,7340,L-3840438,00.html)
 
 **May 2020**  
 - NVIDIA efforts around COVID-19: [YNET](https://www.ynet.co.il/digital/technology/article/S1725DJp8)(Hebrew).
